@@ -1,4 +1,4 @@
-package resson1;
+package lesson1;
 
 public class MaxLength {
 	public int solution(int[] nums){
